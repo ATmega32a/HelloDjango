@@ -16,7 +16,7 @@ non_active_button_color = "#A9A9A9"
 cast = "https://chatapi.viber.com/pa/broadcast_message"
 headers = {"X-Viber-Auth-Token": properties.auth_token}
 
-payed = "https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=DOGOVOR&targets-hint=DOGOVOR&default-sum=&button-text=11&hint=&successURL=https://viberbot.ru/marusya.htm&quickpay=shop&account=410015369758526"
+payed = "https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=DOGOVOR&targets-hint=DOGOVOR&default-sum=&button-text=11&hint=&successURL=https://........."
 
 
 def sort_by_car(car):
