@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'HelloDjango.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'rfkemeou_dj3',
-        'USER': 'rfkemeou_dj3',
-        'PASSWORD':'m8^%24aZR',
+        'NAME': 'db_name',
+        'USER': 'user_name',
+        'PASSWORD':'password',
         'HOST':'localhost',
         'PORT':'3306',
         'OPTIONS': {
