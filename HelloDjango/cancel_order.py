@@ -3,7 +3,7 @@ import hashlib
 
 host = 'domen.site.ru'
 port = 33090
-operator_login = 'r.f.login'
+operator_login = 'login'
 operator_password = 'passssss'
 
 
