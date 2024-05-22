@@ -640,7 +640,7 @@ def cancel_order_or_menu_rich():
             {
                 "Columns": 6,
                 "Rows": 1,
-                "ActionBody": "tel:+79581114584",
+                "ActionBody": "tel:+7.........",
                 "ActionType": "open-url",
                 "OpenURLType": "external",
                 "Silent": "true",
