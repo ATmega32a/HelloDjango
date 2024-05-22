@@ -4,7 +4,7 @@ from datetime import datetime
 import requests
 from HelloDjango.exceptions import MissingKeyException, BadRequestException, DCardNotFoundException
 
-token = "92a2ebe08b53ceb723d0c7caa7293f14"
+token = "token"
 
 
 def vin_validation(num: str) -> tuple[str, str]:
