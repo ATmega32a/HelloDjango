@@ -6,11 +6,10 @@ from urllib.parse import unquote
 import math
 from math import sin, cos, asin, sqrt
 
-# host = '217.73.194.187'
-host = 'markas.taxomet.ru'
+host = 'domen.site.ru'
 port = 33090
-operator_login = 'r.f.kemerovo'
-operator_password = '390d06d5'
+operator_login = 'r.f.login'
+operator_password = 'passssss'
 
 
 def distance(unit_id, tariff_id, lat_from, lon_from, lat_to, lon_to):
