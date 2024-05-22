@@ -30,7 +30,7 @@ urlpatterns = [
                   path('choice_doc/', csrf_exempt(choice_documents)),
                   path("admin/", admin.site.urls),
                   path('', include('customer.urls')),
-                  path('664cbd05f0b26bc3', csrf_exempt(viber_events)),
+                  path('6***************', csrf_exempt(viber_events)),
 
                   path('driver_or_client/<str:subscriber_id>/<str:searched_phones>/<str:search_by>', set_driver),
                   path('driver_or_client/<str:subscriber_id>//<str:search_by>', set_driver),
