@@ -63,4 +63,4 @@ urlpatterns = [
                   path('make_all_clients/<str:searched_phones>', make_all_clients)
 
               ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-admin.site.site_header = "ТТК Маруся"
+admin.site.site_header = "SITE name"
