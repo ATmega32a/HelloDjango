@@ -2,10 +2,10 @@ import socket
 import hashlib
 import urllib.parse
 
-host = 'markas.taxomet.ru'
+host = 'domen.site.ru'
 port = 33090
-operator_login = 'r.f.kemerovo'
-operator_password = '390d06d5'
+operator_login = 'r.f.login'
+operator_password = 'passssss'
 
 
 def send_order(unit_id='', tariff_id='', phone='', addr_from='', addr_to='', comment=''):
